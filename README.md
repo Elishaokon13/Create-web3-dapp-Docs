@@ -1,22 +1,12 @@
-# 👋 Welcome to A Product
+# ⚡ Create-web3-dapp
 
-{% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
+## Introduction to Decentralized applications(Dapps)
 
-## Overview
+> Decentralized applications (DApps) are software applications that run on a decentralized network, such as the Ethereum blockchain. DApps are built using blockchain technology, which allows them to be distributed and secure. They operate on a peer-to-peer network, rather than being controlled by a single entity, which makes them resistant to censorship and fraud.
 
-Here are a couple of example overviews from products with really great docs:
+> DApps can be used for a wide variety of purposes, including decentralized finance (DeFi), supply chain management, voting systems, and more. They are often open-source and use smart contracts to facilitate the execution of their functions.
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
->
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
-
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+To create a DApp, developers can use various programming languages and frameworks, such as Solidity, Truffle, and Web3.js.
 
 ## Quick links
 
@@ -30,7 +20,7 @@ Here are a couple of example overviews from products with really great docs:
 
 ## Get Started
 
-We've put together some helpful guides for you to get setup with our product quickly and easily.
+We've put together some helpful guides for you to get set up with our product quickly and easily.
 
 {% content-ref url="fundamentals/getting-set-up/" %}
 [getting-set-up](fundamentals/getting-set-up/)
