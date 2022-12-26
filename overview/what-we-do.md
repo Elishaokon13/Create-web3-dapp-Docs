@@ -1,3 +1,9 @@
+---
+description: >-
+  Create-web3-dapp is a command-line interface tool that allows you to create,
+  manage, and deploy decentralized applications with ease.
+---
+
 # 💡 What we do
 
 {% hint style="info" %}

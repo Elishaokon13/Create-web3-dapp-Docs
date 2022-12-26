@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Create-web3-dapp](README.md)
+* [⚡ Create-web3-dapp](README.md)
 
 ## Overview
 
